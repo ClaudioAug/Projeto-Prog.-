@@ -1,0 +1,1 @@
+Desenvolvido por um grupo de três estudantes, o AppLab é um sistema em Python com interface gráfica e banco de dados SQLite para o gerenciamento de amostras fúngicas. O código permite cadastrar, pesquisar, editar, visualizar e excluir registros laboratoriais de forma prática e centralizada.
